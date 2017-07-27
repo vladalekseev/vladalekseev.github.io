@@ -1,0 +1,42 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #9f1d1d; }
+
+p {
+  color: #888; }
+
+.color_element {
+  color: #9f1d1d; }
+
+.color_bg {
+  background-color: #9f1d1d; }
+
+.color_border {
+  border-color: #9f1d1d; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.toggle_mnu {
+  background-color: #222; }
+
+.top_mnu a:hover {
+  color: #9f1d1d;
+  background-color: rgba(255, 255, 255, 0.08); }
+
+.resume_icon {
+  color: #9f1d1d; }
+
+.container_item .year {
+  background-color: #9f1d1d; }
+
+.contacts_icon {
+  color: #9f1d1d; }
+
+.main_form button {
+  background-color: #9f1d1d; }
+
+/*# sourceMappingURL=tomato.css.map */
